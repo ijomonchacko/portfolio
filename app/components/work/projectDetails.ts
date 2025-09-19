@@ -37,15 +37,15 @@ export const projects = [
     },
     {
         id: 1,
-        name: "Beyoud Us Promo",
+        name: "GT650 Showreel",
         description:
-            "Official promo of Beyoud Us Hackathon Hosted by GTECH μLearn & Kerala Knowledge Economy Mission (KKEM) ",
-        technologies:[SiCinema4D,SiFigma,SiAdobepremierepro],
-        techNames: ["Cinema4D", "Figma","Premire Pro"],
-        techLinks: ["https://www.maxon.net/en/cinema-4d", "https://www.figma.com/" ,"https://www.adobe.com/ro/products/premiere.html"],
-        github: "https://www.instagram.com/reel/CuE0CO0Arp1/",
-        demo: "https://www.instagram.com/reel/CuE0CO0Arp1/",
-        image: "/projects/2.png",
+            "Motorbike Continental GT 650 Short Film, showcasing the sleek design and powerful performance of the GT 650 model.",
+        technologies: [SiCinema4D, SiAdobeaftereffects, SiAdobepremierepro],
+        techNames: ["Cinema4D", "After Effects", "Premiere Pro"],
+        techLinks: ["https://www.maxon.net/en/cinema-4d", "https://www.adobe.com/products/aftereffects.html", "https://www.adobe.com/ro/products/premiere.html"],
+        github: "https://drive.google.com/file/d/14-xePwVofD562LC-iYyjbfiHvuk73DbC/view?usp=drive_link",
+        demo: "https://drive.google.com/file/d/14-xePwVofD562LC-iYyjbfiHvuk73DbC/view?usp=drive_link",
+        image: "/projects/gt650thumb.png",
         available: true,
     },
     {
