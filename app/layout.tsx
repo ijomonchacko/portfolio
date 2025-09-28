@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "Jomon Chacko - Designer and Developer",
         description:
       "My name is Jomon Chacko and I am a 3D animation artist, a proficient user of Unreal Engine 5, and skilled in video editing and graphic design. With years of experience in these fields, I have honed my skills and am excited to showcase my work to you. I am passionate about visually stunning and engaging content that captivates audiences..",
         url: "",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
         title: "Jomon Chacko Portfilio",
         description:
       "My name is Jomon Chacko and I am a 3D animation artist, a proficient user of Unreal Engine 5, and skilled in video editing and graphic design. With years of experience in these fields, I have honed my skills and am excited to showcase my work to you. I am passionate about visually stunning and engaging content that captivates audiences.",
-        creator: "SeekVFX",
+        creator: "JomonChacko",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
     },
