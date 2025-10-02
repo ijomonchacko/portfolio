@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import Container from "../container/Container";
 import React from "react";
 import {SiGoogledrive } from "react-icons/si";
-import {BsLink45Deg} from "react-icons/bs";
+
 const ProjectCard = ({
     id,
     name,

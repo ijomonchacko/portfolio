@@ -19,6 +19,7 @@ type CustomCSSProperties = React.CSSProperties & {
 };
 
 type ContainerProps = {
+    id?: string;
     // size
     width?: string | number;
     height?: string | number;
@@ -55,6 +56,7 @@ type ContainerProps = {
 };
 
 const Container: React.FC<ContainerProps> = ({
+    id,
     width,
     height,
     top = 0,
@@ -94,6 +96,7 @@ const Container: React.FC<ContainerProps> = ({
 
     return (
         <div
+            id={id}
             className={`container ${blurClasses}`}
             style={{
                 "--angle": typeof angle === "number" ? `${angle}deg` : angle,
