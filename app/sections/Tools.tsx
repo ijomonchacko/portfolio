@@ -4,12 +4,13 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
     SiAdobeaftereffects,
-    SiAdobeillustrator,SiAdobepremierepro,SiFigma,
-    SiAdobephotoshop, SiAstro, SiCinema4D, SiFramer, SiGit,
+    SiAdobephotoshop,
+    SiAdobepremierepro,
+    SiCinema4D, SiGit,
     SiGithub,SiVercel,SiFlutter,SiLaravel,SiVuedotjs,
-    SiGooglechrome, SiGooglefonts,SiUnrealengine,
-    SiBootstrap , SiJavascript, SiKotlin, SiLua,
-    SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig
+    SiUnrealengine,
+    SiBootstrap , SiJavascript,
+    SiNextdotjs, SiReact
   
 } from "react-icons/si";
 import AnimatedTools from "../animations/AnimatedTools";
