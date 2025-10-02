@@ -12,7 +12,7 @@ import {
     SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig
   
 } from "react-icons/si";
-import AnimatedTools from "../animations/AnimatedTools.tsx";
+import AnimatedTools from "../animations/AnimatedTools";
 
 const Tools = () => {
     return (
