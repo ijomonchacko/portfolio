@@ -66,7 +66,7 @@ export const projects = [
         github:
             "https://drive.google.com/file/d/14-xePwVofD562LC-iYyjbfiHvuk73DbC/view?usp=drive_link",
         demo: "https://drive.google.com/file/d/14-xePwVofD562LC-iYyjbfiHvuk73DbC/view?usp=drive_link",
-        image: "/projects/gt650thumb.png",
+        image: "/projects/gt6500.png",
         available: true,
     },
     {
@@ -80,7 +80,7 @@ export const projects = [
         github:
             "https://drive.google.com/file/d/19ZKxDChvJH46QW48wQOJ8wAiMl8Lcpla/view?usp=sharing",
         demo: "https://drive.google.com/file/d/19ZKxDChvJH46QW48wQOJ8wAiMl8Lcpla/view?usp=sharing",
-        image: "/projects/pro3.png",
+        image: "/projects/pro4.png",
         available: true,
     },
     {
@@ -97,7 +97,7 @@ export const projects = [
         github:
             "https://drive.google.com/file/d/14frAhQSyMHhLsxopBiWe-y8JOYGKzEpu/view?usp=drive_link",
         demo: "https://drive.google.com/file/d/14frAhQSyMHhLsxopBiWe-y8JOYGKzEpu/view?usp=drive_link",
-        image: "/projects/floodreliefthumb.png",
+        image: "/projects/flr.png",
         available: true,
     },
     {
@@ -114,12 +114,12 @@ export const projects = [
         github:
             "https://drive.google.com/file/d/1-oHxFdXt1uH08JkA8FyEvJqaDL6dFycE/view?usp=sharing",
         demo: "https://drive.google.com/file/d/1-oHxFdXt1uH08JkA8FyEvJqaDL6dFycE/view?usp=sharing",
-        image: "/projects/pakalveddu.png",
+        image: "/projects/pkl.png",
         available: true,
     },
     {
         id: 5,
-        name: "GT 650 Short Classics",
+        name: "650 Shots",
         description:
             "A sleek, cinematic short featuring the GT 650 drone in action. This project highlights the drone’s dynamic flight capabilities and visual appeal",
         technologies: [SiAdobepremierepro, SiAdobeaftereffects],
@@ -131,7 +131,7 @@ export const projects = [
         github:
             "https://drive.google.com/file/d/1RBoV4nCiiQoRRrd3qsjF6IINAlCEVKVi/view?usp=sharing",
         demo: "https://drive.google.com/file/d/1RBoV4nCiiQoRRrd3qsjF6IINAlCEVKVi/view?usp=sharing",
-        image: "/projects/gt650thumb.png",
+        image: "/projects/time.png",
         available: true,
     },
     {

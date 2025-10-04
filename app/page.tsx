@@ -15,6 +15,7 @@ import Work from "./sections/Work";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 import Tools from "./sections/Tools";
+import WebsiteProjects from "./sections/WebsiteProjects";
 
 export default function Home() {
     useEffectOnce(() => {
@@ -61,6 +62,7 @@ export default function Home() {
                 <Hero />
                 <About />
                 <Work />
+                <WebsiteProjects />
                 <Tools />
                 { /* <Blog /> TODO: Low Priority */ }
                 <Contact />
