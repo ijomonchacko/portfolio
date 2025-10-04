@@ -50,8 +50,8 @@ const WebsiteProjectCard = ({
                 />
                 <div
                     className={`absolute top-0 text-[#0E1016] ${
-                        id % 2 === 0 ? "left-0 ml-8 lg:ml-14" : "right-0 mr-8 lg:mr-14"
-                    } mt-6 flex  items-center justify-center gap-4 lg:mt-10`}
+                        id % 2 === 0 ? "left-0 ml-4 sm:ml-6 lg:ml-14" : "right-0 mr-4 sm:mr-6 lg:mr-14"
+                    } mt-4 sm:mt-6 lg:mt-10 flex items-center justify-center gap-2 sm:gap-3 lg:gap-4`}
                 >
                     {available ? (
                         <>
@@ -59,7 +59,7 @@ const WebsiteProjectCard = ({
                                 href={github}
                                 target="_blank"
                                 aria-label="Open GitHub Repository"
-                                className="rounded-full w-[30px] bg-white p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[65px] lg:text-[28px]"
+                                className="rounded-full w-[35px] h-[35px] sm:w-[40px] sm:h-[40px] md:w-[50px] md:h-[50px] lg:w-[65px] lg:h-[65px] bg-white p-2 sm:p-3 md:p-3 lg:p-5 text-[14px] sm:text-[16px] md:text-[20px] lg:text-[28px] flex items-center justify-center"
                                 data-blobity
                                 data-blobity-radius="35"
                                 data-blobity-offset-x="4"
@@ -71,7 +71,7 @@ const WebsiteProjectCard = ({
                                 href={demo}
                                 target="_blank"
                                 aria-label="Open Live Website"
-                                className="rounded-full w-[30px] bg-white p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[65px] lg:text-[28px]"
+                                className="rounded-full w-[35px] h-[35px] sm:w-[40px] sm:h-[40px] md:w-[50px] md:h-[50px] lg:w-[65px] lg:h-[65px] bg-white p-2 sm:p-3 md:p-3 lg:p-5 text-[14px] sm:text-[16px] md:text-[20px] lg:text-[28px] flex items-center justify-center"
                                 data-blobity
                                 data-blobity-radius="35"
                                 data-blobity-offset-x="4"
